@@ -1,3 +1,9 @@
 /APBot.class
 /RobotMain.class
 /RobotTask.class
+/RobotMainA3.class
+/RobotTaskA3.class
+/MazeSolverAbstract.class
+/MazeDesign.class
+/MazeSolverFromBottomRight.class
+/MazeSolverFromTopLeft.class
